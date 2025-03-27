@@ -14,6 +14,8 @@ Programming Language : Python
 
 Data Processing : Natural Language Processing (NLP) for sentiment analysis
 
+Dataset: Provided by Future Intern Project [Sentiment dataset](https://github.com/MonicaAniedobe/FUTURE_DS_01/blob/main/sentimentdataset.csv)
+
 ## Key Features 
 Trend analysis of sentiment over time (2010-2025) 
 
