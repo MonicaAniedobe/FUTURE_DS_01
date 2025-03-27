@@ -25,3 +25,25 @@ Detailed sentiment distribution with various emotion categories
 
 Engagement sentiment analysis through likes and retweets
 ## Dashboard Visuals 
+Click the link below to view the full Social Media Trend Analysis dashboard:
+[View Dashboard (PDF)](https://github.com/MonicaAniedobe/FUTURE_DS_01/blob/main/SOCIAL%20MEDIA%20TREND%20DASHBOARD%20pdf)
+
+## Insights and Recommendations
+Positive sentiments like "Excitment" and "Happy" generate more engagement, ideal for marketing content 
+
+Negative sentiments should be monitored to address potential crises
+
+Balanced engagement across all platforms allows for a multi-platform strategy
+
+Regional sentiment insights can help tailor localized marketing strategies
+
+## Future Improvement 
+Integrate real time data for dynamic sentiment tracking 
+
+Extend the analysis to more platforms like Linkedln and TikTok
+
+## Acknowledgements 
+
+Future Intern for Providing the dataset
+
+Pthyon and PowerBI communities for resources and support .
